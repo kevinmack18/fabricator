@@ -2,7 +2,7 @@
 
 ![Fabricator](http://resource.github.io/fabricator/fb.jpg)
 
-# Fabricator
+# Fabricator with Ruby Sass
 
 > _fabricate_ - to make by assembling parts or sections.
 
@@ -40,6 +40,13 @@ When you're ready to ship:
 ```shell
 $ npm run build
 ```
+
+## Dependencies
+
+* [Check out the wiki](https://github.com/resource/fabricator/wiki/Quick-Start).
+  * [node.js](http://nodejs.org/)
+  * [Ruby Installer](http://rubyinstaller.org/) (Windows only)
+  * [Sass](http://sass-lang.com/install)
 
 ## Documentation
 
